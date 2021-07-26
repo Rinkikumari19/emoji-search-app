@@ -8,17 +8,24 @@ input{
 }
 .emoji-card{
   background-color: lightgrey;
-  width: 140px;
-  border: 5px solid red;
+  width: 218px;
+  border: 10px solid green;
   padding: 50px;
   font-size: 155px;
   margin: 14px;
-  padding-left: 0px;
-  padding-top: 4px;
-  padding-bottom: 4px;
 }
 .emogi-main-card{
   display: flex;
   flex-wrap: wrap;
 }
 
+.click-btn{
+  background-color: darkgray;
+  font-size: 20px;
+  padding: 7.2px;
+  padding-top: 9px;
+}
+
+.titles{
+  font-size: 40px;
+}
